@@ -64,7 +64,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://github.com/BernardOnuh/myawesomenfts/blob/main/README.md"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -73,12 +73,12 @@ export default function Home() {
               Guide to Recreate <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              This is the github repository it contains all about  how the NFTs was created.
+              This is the github repository it contains detailed steps on how the NFTs was created.
             </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://twitter.com/Bernard_O1"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -87,7 +87,7 @@ export default function Home() {
               Follow on Twitter <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Join me on twitter on my #100Days of Solidity Challenge
+              Join me on twitter on my #100DaysOfSolidityChallenge
             </p>
           </a>
         </div>
